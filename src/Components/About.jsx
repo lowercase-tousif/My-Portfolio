@@ -7,7 +7,7 @@ const About = () => {
         {/* <span className="border border-slate-900 text-white rounded-full h-6 text-sm font-medium px-2 py-2">
           About 🤔
         </span> */}
-        <h2 className="text-3xl sm:text-5xl lg:text-7xl mt-10 lg:mt-15 tracking-wide text-white">
+        <h2 className="animate-pulse text-3xl sm:text-5xl lg:text-7xl mt-10 lg:mt-15 tracking-wide text-white">
           About{" "}
           <span className="bg-gradient-to-r from-blue-500 to-blue-900 text-transparent bg-clip-text">
             myself
