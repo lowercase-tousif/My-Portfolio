@@ -3,7 +3,7 @@ import { projects } from "../Constants";
 
 const Projects = () => {
   return (
-    <div className="mt-32">
+    <div className="pt-20 mt-32" id="projects">
       <div className="container mx-auto ml-2">
         <h1 className="text-center text-6xl text-white">
           My{" "}

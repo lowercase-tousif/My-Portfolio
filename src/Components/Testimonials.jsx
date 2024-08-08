@@ -3,7 +3,7 @@ import { testimonials } from "../Constants";
 
 const Testimonials = () => {
   return (
-    <div className="mt-32">
+    <div className="pt-20  mt-20" id="testimonials">
       <h1 className="text-white text-5xl sm:text-6xl lg:text-7xl text-center">
         What people say{" "}
         <span className="bg-gradient-to-r from-blue-500 to-blue-900 text-transparent bg-clip-text">

@@ -10,11 +10,11 @@ import {
 } from "lucide-react";
 
 export const navItems = [
-  { label: "About me", href: "#" },
+  { label: "About me", href: "#about-me" },
   { label: "Contact me", href: "#" },
-  { label: "Projects", href: "#" },
-  { label: "Pricing", href: "#" },
-  { label: "Testimonials", href: "#" },
+  { label: "Projects", href: "#projects" },
+  { label: "Pricing", href: "#pricing" },
+  { label: "Testimonials", href: "#testimonials" },
 ];
 
 export const checklistItems = [
