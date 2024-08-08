@@ -3,7 +3,7 @@ import myself from "../assets/hero.jpg";
 import { checklistItems } from "../Constants";
 const About = () => {
   return (
-    <div className="pt-20 mt-32" id="about-me">
+    <div className="pt-20 mt-15" id="about-me">
       <div className="text-center">
         {/* <span className="border border-slate-900 text-white rounded-full h-6 text-sm font-medium px-2 py-2">
           About 🤔

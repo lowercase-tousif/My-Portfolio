@@ -4,7 +4,7 @@ import { CheckCircle2 } from "lucide-react";
 
 const Pricing = () => {
   return (
-    <div className="pt-20 mt-32" id="pricing">
+    <div className="pt-20 mt-15" id="pricing">
       <div className="container mx-auto">
         <h2 className="text-3xl sm:text-4xl lg:text-6xl text-center my-8 tracking-wide text-white">
           What You{" "}
