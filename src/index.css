@@ -8,7 +8,6 @@
   font-family: "Space Grotesk";
   color-scheme: white;
 }
-/* Add this to your global CSS file */
-.glass-card {
-  backdrop-filter: blur(10px); /* Blurring effect for the background */
+html {
+  scroll-behavior: smooth;
 }
