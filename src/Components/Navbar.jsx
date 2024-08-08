@@ -16,7 +16,9 @@ const Navbar = () => {
       >
         <div className="flex justify-between items-center">
           <div className="flex items-center flex-shrink-0">
-            <h1 className="text-xl">Tousif Tasrik</h1>
+            <a href="/" className="text-xl">
+              Tousif Tasrik
+            </a>
           </div>
           <ul className="hidden lg:flex ml-14 space-x-12">
             {navItems.map((nav, index) => (
