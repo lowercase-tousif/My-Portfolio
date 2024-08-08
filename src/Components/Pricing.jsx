@@ -1,4 +1,3 @@
-import React from "react";
 import { pricing } from "../Constants";
 import { CheckCircle2 } from "lucide-react";
 

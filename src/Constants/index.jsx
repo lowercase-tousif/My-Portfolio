@@ -4,9 +4,6 @@ import {
   Briefcase,
   Globe,
   Code,
-  Github,
-  Facebook,
-  Instagram,
 } from "lucide-react";
 
 export const navItems = [

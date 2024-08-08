@@ -1,10 +1,5 @@
-import React from "react";
-
 const Hero = () => {
   return (
-
-    
-
     <div className="flex flex-col items-center mt-6 lg:mt-20">
       <h1 className="text-5xl sm:text-6xl lg:text-8xl text-center tracking-wide text-white">
         Hey there!{" "}

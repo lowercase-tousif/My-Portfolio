@@ -1,4 +1,3 @@
-import React from "react";
 import myself from "../assets/hero.jpg";
 import { checklistItems } from "../Constants";
 const About = () => {
